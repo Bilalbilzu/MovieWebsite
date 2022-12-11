@@ -1,0 +1,19 @@
+.header{
+  border:10px solid red;
+  width:100%;
+  height:50px;  
+}
+.headText{
+  text-align:center;
+  color: yellowgreen;
+  
+}
+.headP{
+  text-align:center;
+  color: white;
+  margin-top:0;
+  margin-bottom:0;
+  padding-top:0;
+  padding-bottom:0;
+
+}
